@@ -17,7 +17,7 @@ Hello! I’m **Daksh Gautam**, a passionate coding enthusiast currently pursuing
 - 🔭 I’m currently working on projects using **Next.js**, **React.js**, **JavaScript**, **C/C++**
 - 🌱 I’m learning more about **Web Development**, **Data Structures**, and **Open Source**
 - 🧠 Always curious to explore how things work under the hood
-- 📬 You can reach me at: [dakshgautam101@gmail.com](mailto:dakshgautam101@gmail.com)
+- 📬 You can reach me at: [crushgaming990@gmail.com](mailto:crushgaming990@gmail.com)
 
 ---
 
